@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+app/build/
+gradle-8.7/
+gradle-8.7-bin.zip
+node_modules/
+dist/
